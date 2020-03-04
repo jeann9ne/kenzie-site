@@ -1,0 +1,40 @@
+/* Base Styles */
+
+html, body, form{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    color: #1985B0;
+}
+
+/* Layout Styles */
+
+header{
+    width: 100%;
+    position: fixed;
+}
+
+article{
+    box-sizing: border-box;
+}
+
+footer{
+    background-color: #036;
+}
+
+/* Block Styles */
+
+.logo__header{
+    height: 50px;
+}
+
+nav{
+    background-color: #036;
+    color: white;
+}
+
+.hero{
+    width: 100%;
+}
